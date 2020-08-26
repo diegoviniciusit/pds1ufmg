@@ -1,3 +1,2 @@
 # pds1ufmg
-
-Atividades de PDS1 do curso Sistemas de Informação da UFMG
+Atividades da disciplina Programação e Desenvolvimento de Software I, em C
